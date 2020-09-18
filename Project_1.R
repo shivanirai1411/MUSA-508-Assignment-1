@@ -8,4 +8,6 @@ crime <- fromJSON('crimeOSFO.json')
 view(sfo)
 view(crime)
 
+#visualising data
+
 
